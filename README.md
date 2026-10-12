@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Mostafa%20Albayoumi&fontSize=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Mostafa%20Elbayoumi&fontSize=35" width="100%" />
 
 <h3>Software Engineer | Backend .NET Developer</h3>
 
@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-MOSTAFA%20ALBAYOUMI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-MOSTAFA%20Elbayoumi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/melbayoumi68">
